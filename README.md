@@ -5,9 +5,11 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 ## What Each Command Should Do
 
 ```node liri.js my-tweets```
+
 This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
 ```node liri.js spotify-this-song '<song name here>' ```
+
 This will show the following information about the song in your terminal/bash window
 Artist(s)
 The song's name
